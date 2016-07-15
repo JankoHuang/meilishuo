@@ -11,7 +11,7 @@ a:hover{
     color: hotpink;
 }
 .nav-top{
-    min-width: 1200px;
+    min-width: 1349px;
     background-color: #fff;
     border-bottom: 1px solid #eee;
     height: 30px;
@@ -123,10 +123,10 @@ li{
 .nav{
     position: relative;
     z-index: 999;
-    width: 100%;
+    /*width: 1260px;*/
 }
 .mid-nav{
-    min-width: 100%;
+    min-width: 1349px;
     height: 49px;
     line-height: 49px;
     border-bottom: 1px solid #f69;
@@ -592,7 +592,7 @@ li{
     border: 1px solid hotpink;
 }
 .foot{
-    width: 100%;
+    width: 1349px;
     background-color: #f2f0f0;
     text-align: center;
 }
